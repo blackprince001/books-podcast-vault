@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "5a0e9ae44b492896",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fa419ee3734abe9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18c210513179804a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book summaries/Dopamine Nation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3284235dcda9bf0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dd2fd01a10c31a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f37d108431e78314",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7e77cf0734e5023f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Neuroscience",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b18ba3050144365c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99b20dbfed869cc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2af00b0fa7f682af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14dc597eeb310e0d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "book summaries/Dopamine Nation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1881d9362dbf13aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "book summaries/Dopamine Nation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0bafec28e2d9465",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "8299600c310ed91a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "book summaries/Dopamine Nation.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "f37d108431e78314",
+  "lastOpenFiles": [
+    "engineering",
+    "project goals",
+    "things I learnt from a pod",
+    "book summaries",
+    "things I learnt from a pod/How to focus to Change Your Brain - Huberman Series.md",
+    "Things to do tomorrow.md",
+    "engineering/Things to Implement with Software learnt from courses.md",
+    "Vibing community about CodeDay.md",
+    "book summaries/Dopamine Nation.md",
+    "Excalidraw/Drawing 2023-01-21 22.01.18.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-21 20.36.03.excalidraw.md",
+    "Untitled.canvas",
+    "2023-01-20.md"
+  ]
+}
